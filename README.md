@@ -1,6 +1,6 @@
 # Virat Kohli Knocks App
 
-The Virat Kohli Knocks App is a mobile application that fetches data from the Virat Kohli Knocks API. Built using Jetpack Compose, Dagger Hilt, MVVM, and Retrofit, this library provides a robust and scalable solution for fetching and processing data from the API.
+The Virat Kohli Knocks App is a mobile application that fetches data from the Virat Kohli Knocks API and shows Gratest Knocks played by Virat Kohli. Built using Jetpack Compose, Dagger Hilt, MVVM, and Retrofit, this library provides a robust and scalable solution for fetching and processing data from the API.
 
 ## Features
 * Fetches data from the Virat Kohli Knocks API using Retrofit
@@ -20,6 +20,9 @@ As the Architecture.
 
 [Retrofit](https://square.github.io/retrofit/) :
 For Networking.
+
+[Virat Kohli Knocks API](https://github.com/iShinzoo/Virat-Kohli-Knocks-API) :
+For Fetching Api.
 
 ## ScreenShot
 <img src="https://github.com/iShinzoo/Virat_Kohli_KnocksApp/blob/master/assets/Screenshot_20240604_135429.jpg" width="200" height="400/">
