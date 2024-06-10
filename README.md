@@ -36,4 +36,4 @@ https://github.com/iShinzoo/Virat_Kohli_KnocksApp.git
 ```
 2. Build and run the app
 
-###### Note : Since this is not a UI-focused app, I removed the sections about UI and added more details about the library's functionality and usage. Let me know if you'd like me to make any further changes!
+#### Note : Since this is not a UI-focused app, I removed the sections about UI and added more details about the library's functionality and usage. Let me know if you'd like me to make any further changes!
